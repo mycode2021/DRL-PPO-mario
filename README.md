@@ -2,8 +2,7 @@ English | [简体中文](./README.cn.md)
 
 # Description
 
-Play modified versions of mario games based on PPO algorithm. This project is modified from a Super
-Mario Bros deep reinforcement learning project. The project can be used for testing if you are
+Play modified versions of mario games based on PPO algorithm. This project is modified from a deep reinforcement learning project. The game side is changed to openAI's retro, and certain changes have been made to the structure. This project was created to verify the generalization ability of the game experience between different Mario revisions. The project can be used for testing if you are
 interested. Good ideas are welcome.
 
 # Environment
